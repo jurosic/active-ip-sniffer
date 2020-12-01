@@ -16,4 +16,7 @@ Update 1.0:
    !!(IF START.SH ISN'T WORKING DO "chmod +x start.sh" AND THEN "./start.sh")!!  
     
    Program now also uses a menu because i plan on adding more features.  
+   
+Update 1.1:
+   Added a port sniffer aswell works but there bight be minor bugs that i will fix in the future.
     
