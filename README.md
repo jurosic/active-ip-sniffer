@@ -9,5 +9,6 @@ UPDATES:
 Update 1.0:  
   Sorted files into folders.  
   Active.txt and Unactive.txt are now created in folder called Log which is also created automatically.  
-  Program now starts with start.sh i think that that's easier to use. !!(IF START.SH ISN'T WORKING DO "chmod +x start.sh" AND THEN "./start.sh")!!  
+  Program now starts with start.sh i think that that's easier to use.  
+  !!(IF START.SH ISN'T WORKING DO "chmod +x start.sh" AND THEN "./start.sh")!!  
   Program now also uses a menu because i plan on adding more features.  
