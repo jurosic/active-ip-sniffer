@@ -1,7 +1,0 @@
-2020-12-01 19:22:36.583700
-UP 192.168.2.1 Ping is successful and IP is connected to router .. responded in 7.33ms
-UP 192.168.2.5 Ping is successful and IP is connected to router .. responded in 1.86ms
-UP 192.168.2.84 Ping is successful and IP is connected to router .. responded in 1834ms
-UP 192.168.2.108 Ping is successful and IP is connected to router .. responded in 0.030ms
-...............END...............
-2020-12-01 19:28:10.075613
