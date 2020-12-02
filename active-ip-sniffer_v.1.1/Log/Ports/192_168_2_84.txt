@@ -1,3 +1,0 @@
-Port 22:     Open
-Port 80:     Open
-Port 1234:     Open
