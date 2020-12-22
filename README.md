@@ -1,7 +1,7 @@
 # active-ip-sniffer
 
 
-DISCLAIMER!: THIS TOOL WAS MADE FOR EDUCATIONAL PURPOSES ONLY I DO NOT YIELD HOLD ANY RESPONSIBILITY WOR WHAT YOU DECIDE TO USE THIS TOOL FOR.
+DISCLAIMER!: THIS TOOL WAS MADE FOR EDUCATIONAL PURPOSES ONLY I DO NOT YIELD ANY RESPONSIBILITY WOR WHAT YOU DECIDE TO USE THIS TOOL FOR.
 
 
 A simple Python3.9 program that sniffs the entire network and dumps active IPs into a log file, so make sure you have the file named active-ip-sniffer.py in its own dir.  
