@@ -3,6 +3,7 @@ import subprocess
 import sys
 import os
 from datetime import datetime
+import time
 
 def start():
     
@@ -12,13 +13,12 @@ def start():
         pass
 
     subprocess.call('clear', shell=True)
-
+    
     remoteServer    = input("Enter a remote host to scan: ") 
     
     fileName = remoteServer.replace('.', '_')
-    
     portType = open("Log/Ports/{}.txt".format(fileName), "w+")
-
+    
     foo = True
     oof = True
     while foo == True:
@@ -57,20 +57,23 @@ def start():
 
     except KeyboardInterrupt:
         print ("You pressed Ctrl+C")
-        sys.exit()
+        time.sleep(1)
+        pass
 
     except socket.gaierror:
         print ('Hostname could not be resolved. Exiting')
+        time.sleep(1)
         sys.exit()
-
+        
     except socket.error:
         print ("Couldn't connect to server")
+        time.sleep(1)
         sys.exit()
-
+    
     t2 = datetime.now()
 
     total =  t2 - t1
 
     print ('Scanning Completed in: ', total)
 
-    input()
+    input("Press Enter to exit.")
