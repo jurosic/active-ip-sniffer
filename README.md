@@ -24,4 +24,7 @@ Update 1.0:
    
 Update 1.1:
    Added a port sniffer aswell works but there might be minor bugs that i will fix in the future.
-    
+
+Update 1.2:
+   Added a gateway scanner for wifi routers.
+   IP Scanner now works with 192.168.x.x, so you can now scan 192.168.1.x, .2.x, .3.x and so on.
