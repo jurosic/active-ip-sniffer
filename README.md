@@ -23,5 +23,5 @@ Update 1.0:
    Program now also uses a menu because i plan on adding more features.  
    
 Update 1.1:
-   Added a port sniffer aswell works but there bight be minor bugs that i will fix in the future.
+   Added a port sniffer aswell works but there might be minor bugs that i will fix in the future.
     
